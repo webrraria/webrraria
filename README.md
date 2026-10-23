@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a 
-  href="https://discord.gg/h6xYNUBFnq" 
+  href="https://discord.gg/CDfTwWYktr" 
   target="_blank">
     <img 
     width="279" 
